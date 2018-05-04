@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://AndyWang37141127.github.io/"/>
-  <updated>2018-05-04T09:12:55.251Z</updated>
+  <updated>2018-05-04T09:32:23.382Z</updated>
   <id>http://AndyWang37141127.github.io/</id>
   
   <author>
@@ -17,27 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>about</title>
-    <link href="http://AndyWang37141127.github.io/2018/05/04/about/"/>
-    <id>http://AndyWang37141127.github.io/2018/05/04/about/</id>
-    <published>2018-05-04T08:20:22.000Z</published>
-    <updated>2018-05-04T09:12:55.251Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="he" scheme="http://AndyWang37141127.github.io/tags/he/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>无题</title>
-    <link href="http://AndyWang37141127.github.io/2018/05/03/wuti/"/>
-    <id>http://AndyWang37141127.github.io/2018/05/03/wuti/</id>
-    <published>2018-05-03T14:13:35.000Z</published>
-    <updated>2018-05-03T14:15:20.705Z</updated>
+    <title>about me</title>
+    <link href="http://AndyWang37141127.github.io/2018/05/04/about-me/"/>
+    <id>http://AndyWang37141127.github.io/2018/05/04/about-me/</id>
+    <published>2018-05-04T09:32:23.000Z</published>
+    <updated>2018-05-04T09:32:23.382Z</updated>
     
     <summary type="html">
     
